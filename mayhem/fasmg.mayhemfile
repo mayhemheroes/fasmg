@@ -1,0 +1,5 @@
+project: fasmg
+target: fasmg
+
+cmds:
+  - cmd: /fasmg -r 200 -e 100 @@ /dev/null
